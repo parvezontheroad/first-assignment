@@ -131,3 +131,30 @@ text-transform: uppercase;
     display: flex;
     gap: 200px;
 }
+.foot{
+    background: black;
+    height: 400px;
+}
+.first-footer{
+    display: flex;
+    gap: 400px;
+}
+.wow{
+    color: #FFF;
+    padding-top: 100px;
+    padding-left: 110px;
+}
+.owo{
+    color: #FFF;
+    padding-top: 100px;
+    padding-right: 110px;
+}
+.poo{
+    text-align: left;
+}
+.trust{
+    align-items: center;
+    padding-right: 900px;
+    display: flex;
+    padding-bottom: 1px;
+}
