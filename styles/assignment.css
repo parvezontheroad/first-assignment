@@ -1,3 +1,7 @@
+.image-sp{
+    width: 100%;
+    margin: 0 auto;
+}
 .first-line{
     color:#FFF;
 text-align: center;
@@ -5,6 +9,7 @@ font-family: Merriweather;
 font-size: 32px;
 font-style: normal;
 padding-top: 180px;
+padding-left: 250px;
 background-repeat: no-repeat;
 font-weight: 400;
 line-height: normal;
@@ -12,13 +17,17 @@ margin-top: 50px;
 background-image: url(../banner.png); width: 1300px;
 height: 600px;background-position: 50%;
 }
-.image{
-    height: 500px;
-    width: 1000px;
-    margin-top: 100px;
-    margin-left: 200px;
-    margin-right: 200px;
+.best-offer{
+text-align: left;
+padding-left: 140px;
+padding-top: 100px;
 }
+.nice{
+    color: #F00;
+}
+   
+
+
 .off{
     color: black;
 text-align: center;
@@ -59,7 +68,7 @@ margin-right: 400px;
 margin-left: 150px;
 font-weight: 900;
 color: #FFF;
-
+background-repeat: no-repeat;
 font-family: Merriweather;
 font-size: 20px;
 font-style: normal;
@@ -77,12 +86,48 @@ font-weight: 700;
 line-height: normal;
 text-transform: uppercase;
 }
-div{
-    background-image: url(../party.png);
-background-repeat: no-repeat;
-width: 1320px;
-height: 600px;
-padding-top: 300px;
-padding-left: 50pxpx;
+.backiii{
+  background: url(../party.png);
+      background-repeat: no-repeat;
+width: 1300px;
+height: 500px;
+padding-top: 500px;
+padding-left: 50px;
 margin-top: 120px;
+background-position: center;
+text-align: left;
+padding-bottom: 0px;
+}
+.bg{
+    background-color: lightpink;
+    text-align: center;
+    background-repeat: no-repeat;
+    height: 500px;
+    width: 1300px;
+height: 500px;
+}
+.time{
+    padding-top: 240px;
+}
+.button{
+    color: black;
+
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+}
+.besto-offer{
+    text-align: right;
+    padding-right: 100px;
+    padding-top: 100px;
+
+
+}
+.two{
+    display: flex;
+    gap: 200px;
 }
