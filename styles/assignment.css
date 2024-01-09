@@ -1,6 +1,7 @@
 .image-sp{
     width: 100%;
     margin: 0 auto;
+    padding-left: 50px;
 }
 .first-line{
     color:#FFF;
@@ -9,7 +10,7 @@ font-family: Merriweather;
 font-size: 32px;
 font-style: normal;
 padding-top: 180px;
-padding-left: 250px;
+padding-left: 200px;
 background-repeat: no-repeat;
 font-weight: 400;
 line-height: normal;
@@ -33,6 +34,7 @@ padding-top: 100px;
 text-align: center;
 font-size: 90px;
 font-weight: 650;
+padding-left: 450px;
 }
 .description{
     text-align: center;
@@ -43,6 +45,7 @@ font-size: 24px;
 font-style: normal;
 font-weight: 500;
 line-height: normal;
+padding-left: 450px;
 }
 .catagory{color: black; 
     font-size: 48px;
@@ -50,6 +53,7 @@ line-height: normal;
     font-weight: 700;
 text-align: center;
     font-family: Inter;
+    padding-left: 450px;
 
 }
 .happy-new-year{
@@ -92,7 +96,7 @@ text-transform: uppercase;
 width: 1300px;
 height: 500px;
 padding-top: 500px;
-padding-left: 50px;
+padding-left: 300px;
 margin-top: 120px;
 background-position: center;
 text-align: left;
@@ -104,6 +108,7 @@ padding-bottom: 0px;
     background-repeat: no-repeat;
     height: 500px;
     width: 1300px;
+    
 height: 500px;
 }
 .time{
@@ -122,7 +127,7 @@ text-transform: uppercase;
 }
 .besto-offer{
     text-align: right;
-    padding-right: 100px;
+    padding-right: 0px;
     padding-top: 100px;
 
 
@@ -157,4 +162,7 @@ text-transform: uppercase;
     padding-right: 900px;
     display: flex;
     padding-bottom: 1px;
+}
+.last-footer{
+    display: flex;
 }
