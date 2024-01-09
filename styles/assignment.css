@@ -1,0 +1,88 @@
+.first-line{
+    color:#FFF;
+text-align: center;
+font-family: Merriweather;
+font-size: 32px;
+font-style: normal;
+padding-top: 180px;
+background-repeat: no-repeat;
+font-weight: 400;
+line-height: normal;
+margin-top: 50px;
+background-image: url(../banner.png); width: 1300px;
+height: 600px;background-position: 50%;
+}
+.image{
+    height: 500px;
+    width: 1000px;
+    margin-top: 100px;
+    margin-left: 200px;
+    margin-right: 200px;
+}
+.off{
+    color: black;
+text-align: center;
+font-size: 90px;
+font-weight: 650;
+}
+.description{
+    text-align: center;
+    margin-top: 10px;
+    color: #F00;
+font-family: Inter;
+font-size: 24px;
+font-style: normal;
+font-weight: 500;
+line-height: normal;
+}
+.catagory{color: black; 
+    font-size: 48px;
+    font-style: normal;
+    font-weight: 700;
+text-align: center;
+    font-family: Inter;
+
+}
+.happy-new-year{
+   
+    width: 800px;
+height: 500px;
+margin-left: 400px;
+margin-right: 400px;
+}
+
+.second-line{
+    font-size: larger;
+}
+.partyyesss,.para{
+    
+margin-left: 150px;
+font-weight: 900;
+color: #FFF;
+
+font-family: Merriweather;
+font-size: 20px;
+font-style: normal;
+font-weight: 900;
+}
+.btn{
+    margin-left: 150px ;
+    color: black;
+
+text-align: center;
+font-family: Inter;
+font-size: 20px;
+font-style: normal;
+font-weight: 700;
+line-height: normal;
+text-transform: uppercase;
+}
+div{
+    background-image: url(../party.png);
+background-repeat: no-repeat;
+width: 1320px;
+height: 600px;
+padding-top: 300px;
+padding-left: 50pxpx;
+margin-top: 120px;
+}
